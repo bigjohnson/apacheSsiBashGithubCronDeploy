@@ -17,3 +17,5 @@ File permissions:
 Add a Webhook on github that call https://site.com/webhoks/deploy.shtml on pull requets of your repo.
 
 You need add shh keys an so on...
+
+The apache server need [mod_include](https://httpd.apache.org/docs/2.4/howto/ssi.html) activated on the /home/http/htdocs/site.com/webhoks/ directory. 
