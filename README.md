@@ -1,7 +1,7 @@
 # apacheSsiBashGithubDeploy
 An Apache server side include file runned on repo push wit Github webhooks that create a file on remote server.
 
-The file existence is checked wit a cron script tat run the git pull command every 1 minute. 
+The file existence is checked  every 1 minute with a cron script tat run the git pull command if the file is present. 
 
 Insert pull.sh in crontab:
 ```
