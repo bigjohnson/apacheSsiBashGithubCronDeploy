@@ -22,5 +22,5 @@ The apache server need [mod_include](https://httpd.apache.org/docs/2.4/howto/ssi
 
 Actually it pull the master branch with command
 ```
-git pull origin maste
+git pull origin master
 ```
