@@ -14,3 +14,6 @@ File permissions:
 -rw-r--r--. 1 realuser realuser 2784 26 mar 20.29 webhook.log
 ```
 
+Add a Webhook on github that call https://site.com/webhoks/deploy.shtml on pull requets of your repo.
+
+You need add shh keys an so on...
